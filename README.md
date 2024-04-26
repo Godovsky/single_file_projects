@@ -1,8 +1,8 @@
-# Single-file projects
-
-
 ***********
 
+
+
+# Single-file projects
 
 ## anonymous_array.c
 
@@ -43,8 +43,12 @@ Some examples of handling structures and pointers to them.
 A good trick with swapping the values of two variables.
 
 
+
 **********
 
+
+
+# Однофайловые проекты программ
 
 ## anonymous_array.c
 
@@ -83,6 +87,7 @@ A good trick with swapping the values of two variables.
 ## val_swapping.с
 
 Неплохой трюк с перестановкой значений в переменных.
+
 
 
 **********
