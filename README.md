@@ -4,7 +4,7 @@
 ***********
 
 
-# anonymous_array.c
+## anonymous_array.c
 
 An example of working with anonymous data types.
 In this case, we consider working with an anonymous array.
