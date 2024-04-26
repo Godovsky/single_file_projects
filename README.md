@@ -112,7 +112,7 @@ A good trick with swapping the values of two variables.
 
 Способ обращения с динамической памятью, с которой можно обращаться как с массивом массивов.
 
-## printf_file_line.c
+## log_string_example.c
 
 Вывод на экран времени, названия файла, названия функции и номера строки.
 
