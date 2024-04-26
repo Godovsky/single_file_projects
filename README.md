@@ -2,8 +2,6 @@
 
 
 
-## anonymous_array.c
-
 ***********
 # anonymous_array.c
 
