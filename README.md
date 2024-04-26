@@ -5,16 +5,16 @@
 # Single-file projects
 
 Building:
-$ make
+    $ make
 
 Full remowing:
-$ make clean
+    $ make clean
 
 Removing program:
-$ make clean_(progname)
+    $ make clean_(progname)
 
 Running:
-$ ./bin/(progname)
+    $ ./bin/(progname)
 
 ## anonymous_array.c
 
@@ -67,16 +67,16 @@ A good trick with swapping the values of two variables.
 # Однофайловые проекты программ
 
 Сборка:
-$ make
+    $ make
 
 Удаление целиком:
-$ make clean
+    $ make clean
 
 Удаление конкретной программы:
-$ make clean_(имя)
+    $ make clean_(имя)
 
 Запуск:
-$ ./bin/(имя)
+    $ ./bin/(имя)
 
 ## anonymous_array.c
 
