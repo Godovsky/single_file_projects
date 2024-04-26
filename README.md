@@ -1,7 +1,7 @@
 # Single-file projects
 
 
-
+***********
 # anonymous_array.c
 
 An example of working with anonymous data types.
@@ -39,7 +39,7 @@ Some examples of handling structures and pointers to them.
 # val_swapping.c
 
 A good trick with swapping the values of two variables.
-
+**********
 
 
 # anonymous_array.c
