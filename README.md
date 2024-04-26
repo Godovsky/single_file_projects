@@ -21,6 +21,10 @@ $ ./bin/(progname)
 An example of working with anonymous data types.
 In this case, we consider working with an anonymous array.
 
+## array_shift.c
+
+Cyclic bitwise shift of the array.
+
 ## constant_pointers.c
 
 An example of working with pointers with const modifiers.
@@ -78,6 +82,10 @@ $ ./bin/(имя)
 
 Пример работы с анонимными типами данных.
 В данном случае рассматривается работа с анонимным массивом.
+
+## array_shift.c
+
+Циклический побитовый сдвиг массива.
 
 ## constant_pointers.c
 
