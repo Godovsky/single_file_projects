@@ -11,10 +11,10 @@ Full remowing:
 $ make clean
 
 Removing program:
-$ make clean_<name>
+$ make clean_(progname)
 
 Running:
-$ ./bin/<name>
+$ ./bin/(progname)
 
 ## anonymous_array.c
 
@@ -69,10 +69,10 @@ $ make
 $ make clean
 
 Удаление конкретной программы:
-$ make clean_<имя>
+$ make clean_(имя)
 
 Запуск:
-$ ./bin/<имя>
+$ ./bin/(имя)
 
 ## anonymous_array.c
 
