@@ -1,8 +1,9 @@
 # Single-file projects
 
 
-
 ***********
+
+
 # anonymous_array.c
 
 An example of working with anonymous data types.
@@ -40,6 +41,8 @@ Some examples of handling structures and pointers to them.
 ## val_swapping.c
 
 A good trick with swapping the values of two variables.
+
+
 **********
 
 
@@ -52,7 +55,9 @@ A good trick with swapping the values of two variables.
 
 Пример работы с указателями с модификаторами const.
 
-## errors.c - просто код, расшифровывающий коды ошибок в операционной системе.
+## errors.c
+
+Просто код, расшифровывающий коды ошибок в операционной системе.
 
 ## interoperability_of_array_index.c
 
@@ -78,3 +83,6 @@ A good trick with swapping the values of two variables.
 ## val_swapping.с
 
 Неплохой трюк с перестановкой значений в переменных.
+
+
+**********
