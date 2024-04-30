@@ -37,6 +37,10 @@ An example of working with pointers with const modifiers.
 
 Just a code that decrypts error codes in the operating system.
 
+## int_to_ip.c
+
+The integer to ip conversion.
+
 ## interoperability_of_array_index.c
 
 An example showing that the index and
@@ -102,6 +106,10 @@ A good trick with swapping the values of two variables.
 ## errors.c
 
 Просто код, расшифровывающий коды ошибок в операционной системе.
+
+## int_to_ip.c
+
+Конвертер десятичного числа в IP адрес.
 
 ## interoperability_of_array_index.c
 
