@@ -46,6 +46,10 @@ The integer to ip conversion.
 An example showing that the index and
 array name can be swapped and this will not affect the results of the program.
 
+## ip_to_int.c
+
+The ip to integer conversion.
+
 ## malloc_array_of_array.c
 
 A way of handling dynamic memory, which can be handled as an array of arrays.
@@ -115,6 +119,10 @@ A good trick with swapping the values of two variables.
 
 Пример, показывающий, что индекс и
 имя массива можно менять местами и это не повлияет на результаты работы программы.
+
+## ip_to_int.c
+
+Ковертер IP адреса в целое число.
 
 ## malloc_array_of_array.c
 
