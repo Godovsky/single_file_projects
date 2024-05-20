@@ -66,6 +66,7 @@ all: $(BFILES)
 $(BIN)/%: $(SRC)/%.c | $(BIN)
 	@$(ECHO) 'Building "$(@F)"'
 	@$(CC) $(CFLAGS) $< -o $@
+	@strip -s $@
 
 $(BIN):
 	@$(ECHO) 'Creating "$(@)"'
