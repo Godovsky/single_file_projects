@@ -2,8 +2,8 @@
 
 int main (int argc, char * argv[])
 {
-	printf ("Press enter button to exit...");
-	while (getchar () != '\n');
+	printf ("Press \'q\' button to quit: ");
+	while (getchar () != 'q');
 
 	return 0;
 }
