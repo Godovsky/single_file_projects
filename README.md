@@ -37,6 +37,10 @@ An example of working with pointers with const modifiers.
 
 Just a code that decrypts error codes in the operating system.
 
+## hello_world.c
+
+...
+
 ## int_to_ip.c
 
 The integer to ip conversion.
@@ -114,6 +118,10 @@ A good trick with swapping the values of two variables.
 ## errors.c
 
 Просто код, расшифровывающий коды ошибок в операционной системе.
+
+## hello_world.c
+
+...
 
 ## int_to_ip.c
 
