@@ -58,6 +58,10 @@ A way of handling dynamic memory, which can be handled as an array of arrays.
 
 Displays the time, file name, function name and line number.
 
+## pause.c
+
+A way to pause the program
+
 ## simple_perceptron.c
 
 An example of a simple perceptron that learns to convert kilometers into miles.
@@ -131,6 +135,10 @@ A good trick with swapping the values of two variables.
 ## log_string_example.c
 
 Вывод на экран времени, названия файла, названия функции и номера строки.
+
+## pause.c
+
+Способ поставить программу на паузу
 
 ## simple_perceptron.с
 
