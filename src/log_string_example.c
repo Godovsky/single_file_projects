@@ -4,8 +4,9 @@
 #include <string.h>
 
 int main (int argc, char * argv[])
-{ 
-    for (int i = 0; i < 10; i++)
+{
+	int i;
+    for (i = 0; i < 10; i++)
     {
         time_t t = time (NULL);
         struct tm * tp = localtime(&t);

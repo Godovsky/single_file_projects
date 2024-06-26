@@ -8,7 +8,7 @@
 CC = gcc
 
 ### Compiler flags. -Wall is an flag that shows all warnings
-CFLAGS = -Wall
+CFLAGS = -Wall -ansi
 
 ### The path to the binary folders and files
 MAINBIN = bin

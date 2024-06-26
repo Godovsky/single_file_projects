@@ -2,7 +2,8 @@
 
 void func (int * arr, size_t size)
 {
-	for (int i = 0; i < size; i++)
+	int i;
+	for (i = 0; i < size; i++)
 	{
 		printf("arr[%d] = %d\n", i, arr[i]);
 	}

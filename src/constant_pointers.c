@@ -10,10 +10,10 @@ int main (int argc, char * argv[])
 	printf("*pA: %d\n", *pA);
 	printf("a: %d\n\n", a);
 	
-	// *pA = 10;	// error: assignment of read-only location ‘*pA’
+	/* *pA = 10; */	/* error: assignment of read-only location ‘*pA’ */
 	
-	// printf("*pA: %d\n", *pA);
-	// printf("a: %d\n\n", a);
+	/* printf("*pA: %d\n", *pA);
+	printf("a: %d\n\n", a); */
 	
 	return 0;
 }
