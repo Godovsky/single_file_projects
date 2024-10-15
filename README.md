@@ -78,6 +78,9 @@ Some examples of handling structures and pointers to them.
 
 A good trick with swapping the values of two variables.
 
+## data_to_func_by_int.c
+
+An example of how else you can pass an address of some data to a function.
 
 
 **********
@@ -159,6 +162,10 @@ A good trick with swapping the values of two variables.
 ## val_swapping.с
 
 Неплохой трюк с перестановкой значений в переменных.
+
+## data_to_func_by_int.c
+
+Пример того, как еще можно передавать в функцию какой-нибудь адрес каких-либо данных.
 
 
 **********
